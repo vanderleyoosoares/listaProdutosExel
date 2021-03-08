@@ -1,4 +1,4 @@
-##Projeto de leitura de códigos de barra e geração de uma lista gravada em Exel
+## Projeto de leitura de códigos de barra e geração de uma lista gravada em Exel.
 Esse projetinho surgiu para auxiliar minha Mãe, com uma certa dificuldade com a logistica de contagem de uma roupas, que ela faz venda. Onde ela espalhava todos os produtos no chão separando individualmente as peças para localizar posteriormente na lista fornecida pelos fornecedores e verificar a quantidade que ela estaria levando novamente para os fornecedores.
 O sistema é simples mas ajuda a reduzir o tempo gasto com essa "contagem necessária".
 Consiste em um programa console que realisa a leitura de uma sequência de inteiros (que serão os códigos de barras), gerar uma lista sem os itens duplicados, e gravar em uma planilha .xlsx, os códigos existentes e suas quantidades (identificando quantos itens estão em "posse/estoque"), assim facilitando a comparação da lista entregue pelo fornecedor com as quantidades dos produtos.
